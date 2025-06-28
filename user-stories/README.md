@@ -1,0 +1,1 @@
+To ranslate use case diagram interactions into user stories.
